@@ -20,7 +20,7 @@ make
 
 sudo make install
 
-If you want the driver to work after the updating the kernel I advise to follow the next steps that includes the dkms utility. You will need to work in the directory "mt7610u-linksys-ae6000-wifi-fixes" otherwise the process will not work.
+If you want the driver to work after the updating the kernel I advise to follow the next steps that includes the dkms utility. You will need to work in the directory "mt7610u-linksys-ae6000-wifidriver-fixes" otherwise the process will not work.
 
 sudo apt-get install dkms  
 
